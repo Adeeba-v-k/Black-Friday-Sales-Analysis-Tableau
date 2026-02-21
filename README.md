@@ -8,19 +8,19 @@ This project presents an in-depth analysis of Black Friday retail sales data usi
 
 This dashboard focuses on overall business performance using key performance indicators and trend analysis.
 
-### KPIs:
+**KPIs:**
 
 - Total Sales (in Millions)
 - Total Transactions (in Thousands)
 - Total Customers (in Thousands)
-
-## Visualizations:
+**
+Visualizations:**
 
 - Sales by Age Group
 - Sales by City Category
 - Sales by Product Category (Treemap)
 
-👥**  Dashboard 2: Customer Analytics**
+ ## Dashboard 2: Customer Analytics
 
 This dashboard analyzes customer spending patterns and segmentation metrics.
 
@@ -36,7 +36,7 @@ This dashboard analyzes customer spending patterns and segmentation metrics.
 - Spending by Age & Gender (Heatmap)
 - City Stay vs Spending (Trend Analysis)
 
-🛠 **Tools & Techniques Used**
+ ## Tools & Techniques Used
 
 - Tableau
 - Data Cleaning & Transformation
@@ -45,21 +45,21 @@ This dashboard analyzes customer spending patterns and segmentation metrics.
 - K/M Number Formatting
 - Interactive Filters & Dashboard Actions
 
-🎯 **Key Insights
-**
+##  Key Insights
+
 - Certain age groups significantly contribute to total sales.
 - Customer city category influences spending behavior.
 - A small segment of customers generates higher revenue.
 - Product categories vary in sales contribution.
 
-📁 **Dataset**
+## Dataset
 
 Black Friday Retail Sales Dataset 
 
-🚀 **Project Outcome**
+## Project Outcome
 
 Developed interactive dashboards to support data-driven decision-making by identifying key sales trends, high-value customers, and customer segmentation patterns.
 
-👩‍💻 Author
+## Author
 
 Adeeba v k
