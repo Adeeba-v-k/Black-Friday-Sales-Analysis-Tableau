@@ -4,11 +4,11 @@
 
 This project presents an in-depth analysis of Black Friday retail sales data using interactive Tableau dashboards. The objective is to evaluate overall sales performance and understand customer purchasing behavior to derive meaningful business insights.
 
-📊  ** Dashboard 1: Sales Performance Analysis**
+## Dashboard 1: Sales Performance Analysis
 
 This dashboard focuses on overall business performance using key performance indicators and trend analysis.
 
-## KPIs:
+### KPIs:
 
 - Total Sales (in Millions)
 - Total Transactions (in Thousands)
