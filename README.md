@@ -13,8 +13,8 @@ This dashboard focuses on overall business performance using key performance ind
 - Total Sales (in Millions)
 - Total Transactions (in Thousands)
 - Total Customers (in Thousands)
-**
-Visualizations:**
+
+**Visualizations:**
 
 - Sales by Age Group
 - Sales by City Category
